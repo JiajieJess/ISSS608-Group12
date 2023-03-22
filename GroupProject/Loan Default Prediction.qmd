@@ -1,0 +1,21 @@
+---
+title: "Loan Default Prediction"
+author: "Xu Jiajie"
+---
+
+```{r}
+pacman::p_load(funModeling, dplyr, ggstatsplot,readr)
+```
+
+```{r}
+Demographic <- read_csv("data/traindemographics.csv")
+
+```
+
+```{r}
+df_status(Demographic)
+```
+
+```{r}
+
+```
