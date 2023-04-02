@@ -5,8 +5,12 @@ website:
   title: "ISSS608-Group12"
   navbar:
     left:
+      - href: "GroupProject/Introduction.html"
+        text: "Introduction"
       - href: "GroupProject/proposal.html"
-        text: "Proposal"
+        text: "Project Report"
+      - href: "GroupProject/ShinyApp.html"
+        text: "Shiny App"
     right: 
       - href: index.qmd
         text: Home
