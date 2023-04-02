@@ -16,5 +16,11 @@
   },
   "GroupProject/EDA.qmd": {
     "EDA.html": "9cd0d560"
+  },
+  "GroupProject/Introduction.qmd": {
+    "Introduction.html": "be76b6b3"
+  },
+  "GroupProject/ShinyApp.qmd": {
+    "ShinyApp.html": "3a0762aa"
   }
 }

@@ -1,7 +1,0 @@
----
-title: "shinny"
----
-
-```{r}
-#define UI 
-```
