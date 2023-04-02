@@ -1,4 +1,4 @@
 ---
-title: "Shiny app"
+title: "ShinyApp"
 author: "Xu Jiajie; Luo Zheng; Chen Yiman"
 ---
