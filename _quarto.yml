@@ -9,7 +9,7 @@ website:
         text: "Introduction"
       - href: "GroupProject/proposal.html"
         text: "Project Report"
-      - href: "GroupProject/ShinyApp.html"
+      - href: "GroupProject/App.html"
         text: "Shiny App"
       - href: "GroupProject/Poster.html"
         text: "Poster"   
