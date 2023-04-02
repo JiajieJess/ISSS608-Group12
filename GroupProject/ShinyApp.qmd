@@ -1,8 +1,0 @@
----
-title: "ShinyApp"
-author: "Xu Jiajie; Luo Zheng; Chen Yiman"
----
-
-**To access our shinyapp, please visit the following URL:**
-
-<https://vaagroup12.shinyapps.io/R_shiny_Group12/>
