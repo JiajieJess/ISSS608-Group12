@@ -66,4 +66,4 @@ The previous loan analysis has 4 tabs: Overview, tab1, tab2, tab3. Each has its 
 
 The prediction result will be labled in right side.
 
-\[2\]The prediction results are based on logistic regression machine learning model.
+\[2\]The prediction results are based on logistic regression machine learning model..
