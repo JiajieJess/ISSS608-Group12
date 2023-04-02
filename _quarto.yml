@@ -11,6 +11,8 @@ website:
         text: "Project Report"
       - href: "GroupProject/ShinyApp.html"
         text: "Shiny App"
+      - href: "GroupProject/Poster.html"
+        text: "Poster"   
     right: 
       - href: index.qmd
         text: Home

@@ -19,5 +19,12 @@
     "title": "ISSS608-Group12",
     "section": "",
     "text": "Summary\nLoan lending is an essential business activity for banks and loan default often occurs when a borrower takes money from the bank and does not repay back the loan on time. SuperLender, a local lending company, could suffer from revenue damage if it has incorrect predictions about its clients.\nIn the visual analysis course, we have learned several software packages to conduct visual data analysis, and the Shiny APP can display various graphs on the dashboard to realize the interactive function with the audience. The Nigeria Bank’s loan default prediction challenge is a data science problem from ZINDI Competition. By answering this question, this group project aims to create a flexible data interaction platform to predict the potential loan default risks for SuperLender’s potential clients.\nThe project mainly focuses on three questions:\n1) How to effectively visualize the historical data of SuperLender?\n2) What are the features of SuperLender’s uses’ portrait?\n3) How to predict a client’s performance based on his/her historical loan data?\nTo answer these questions, an all-around method is conducted, beginning with EDA to analyze previous defaulters’ features. Then a prediction model is trained to foresee the loan default probability for both repeat loans and new business risks.\nFor more detail, please refer to our proposal here!"
+  },
+  {
+    "objectID": "GroupProject/Introduction.html",
+    "href": "GroupProject/Introduction.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "Welcome to our project: Loan default prediction\n\nLoan defaulters description/ 1st part:\nIn first part of shiny app, we will give you the description of the customers historical recording, including the loan amount, education situation and employment pattern.\n\n\nCorrelation exploration/ 2rd part:\nThe second part will explore the correlation between different factors to see if there are linear or non-linear correlation, as well as the strength and direction of the relationship.\n\n\nPrediction model / 3nd part:\nIn last part, we built up prediction model to forecast the loan repayment results based on different input information."
   }
 ]
