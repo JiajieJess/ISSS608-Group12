@@ -26,5 +26,12 @@
     "title": "Introduction",
     "section": "",
     "text": "Welcome to our Project: Loan Default Prediction\n\nLoan defaulters description/ 1st part\nIn first part of shiny app, we will give you the description of the customers historical recording, including the loan amount, education situation and employment pattern.\n\n\nCorrelation exploration/ 2rd part:\nThe second part will explore the correlation between different factors to see if there are linear or non-linear correlation, as well as the strength and direction of the relationship.\n\n\nPrediction model / 3nd part:\nIn last part, we built up prediction model to forecast the loan repayment results based on different input information."
+  },
+  {
+    "objectID": "GroupProject/ShinyApp.html",
+    "href": "GroupProject/ShinyApp.html",
+    "title": "ShinyApp",
+    "section": "",
+    "text": "To access our shinyapp, please visit the following URL:\nhttps://vaagroup12.shinyapps.io/R_shiny_Group12/"
   }
 ]
