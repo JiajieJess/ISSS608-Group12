@@ -13,6 +13,6 @@ In first part of shiny app, we will give you the description of the customers hi
 
 The second part will explore the correlation between different factors to see if there are linear or non-linear correlation, as well as the strength and direction of the relationship.
 
-### **Prediction model / 3nd part:**
+### Prediction model / 3nd part:
 
 In last part, we built up prediction model to forecast the loan repayment results based on different input information.
